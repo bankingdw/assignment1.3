@@ -1,0 +1,62 @@
+1. pwd
+ (print working directory)
+ is used to output the path of the current working directory.
+2. vi
+ vi is the most popular text editor among Linux users.
+The screen will clear and the text of your file will appear on
+ the screen. If filename doesn't exist yet, vi will start you in a
+ new file, and when you tell it to save your work, it will use the
+ filename that you specified.
+vi filename
+
+3. touch
+touch is a standard Unix command-line interface program 
+which is used to update the access date and / or modification
+ date of a file or directory. In its default usage, it is the 
+equivalent of creating or opening a file and saving it without
+ any change to the file contents.
+touch file.txt
+If file.txt exists, touch updates its access and modification times
+ to the current time. If file.txt doesn't exist, it is created as a new, empty file.
+
+4. mkdir
+ "make directory", mkdir is used to create directories on a file system.
+mkdir mydir
+creates a new mydir directory.
+
+5. rm
+The rm command removes (deletes) files or directories.
+rm file.txt
+
+6. ls
+ ls lists the files in the current working directory
+
+7. echo
+ outputs the strings it is being passed as arguments.
+
+8. cat
+ cat command allows us to create single or multiple files,
+ view contain of file, concatenate files and redirect output in terminal or files.
+prints the content of files.
+
+9. who
+who - show who is logged on  
+
+10. cd
+The cd command is used to change the current directory.
+
+11. date
+The date command is used to print out, or change the value of, 
+the system's time and date information.
+
+12. cal
+Display a conveniently-formatted calendar from the command line.
+
+13. mv
+The mv command is used to move or rename files.
+
+14. cp
+The cp command is used to make copies of files and directories.
+
+15. which
+which returns the pathnames of the files (or links) which would be executed in the current environment
